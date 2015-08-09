@@ -1,3 +1,11 @@
+lernstick-usertemplate-winterthur (2) lernstick-8; urgency=medium
+
+  * [c65de2] added gitignore file
+  * [e0cad2] removed icedove from favorite apps
+  * [28c376] renamed program folders for better readability on small screens
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 09 Aug 2015 18:01:41 +0200
+
 lernstick-usertemplate-winterthur (1) lernstick-8; urgency=medium
 
   * initial release
