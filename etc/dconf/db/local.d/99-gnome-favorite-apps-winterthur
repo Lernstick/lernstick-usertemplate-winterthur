@@ -1,0 +1,2 @@
+[org/gnome/shell]
+favorite-apps=['iceweasel.desktop', 'icedove.desktop', 'pinta.desktop', 'gbrainy.desktop', 'yelp.desktop']

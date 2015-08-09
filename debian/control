@@ -1,0 +1,14 @@
+Source: lernstick-usertemplate-winterthur
+Section: misc
+Priority: extra
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+Homepage: http://www.lernstick.ch
+
+Package: lernstick-usertemplate-winterthur
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-cli
+Description: user template customizations for Winterthur
+ Customizations of the lernstick user template for Winterthur, including
+ customized favorite apps and apps folders for GNOME.
