@@ -1,0 +1,5 @@
+configure-stamp
+debian/files
+debian/lernstick-usertemplate-winterthur.debhelper.log
+debian/lernstick-usertemplate-winterthur.substvars
+debian/lernstick-usertemplate-winterthur/
