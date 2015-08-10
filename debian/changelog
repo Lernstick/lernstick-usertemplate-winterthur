@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (3) lernstick-8; urgency=medium
+
+  * [b5493c] added envol to apps folders
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 10 Aug 2015 18:30:53 +0200
+
 lernstick-usertemplate-winterthur (2) lernstick-8; urgency=medium
 
   * [c65de2] added gitignore file
