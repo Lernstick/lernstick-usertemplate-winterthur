@@ -18,7 +18,7 @@ excluded-apps=['gcompris-edit.desktop']
 name='Settings.directory'
 
 [org/gnome/desktop/app-folders/folders/Programme_MST]
-apps=['budenberg.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'verkehrsinstruktion.desktop']
+apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'verkehrsinstruktion.desktop']
 name='MST-Programme'
 
 [org/gnome/desktop/app-folders/folders/Programme_UST]
@@ -60,5 +60,5 @@ name='AudioVideo.directory'
 [org/gnome/desktop/app-folders/folders/Education]
 translate=true
 categories=['Education', 'X-lernstick-Astronomy', 'X-lernstick-History', 'Music', 'Geography', 'Typewriting']
-excluded-apps=['budenberg.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'mathbox.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'mathe_primar_3.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'multidingsda.desktop', 'omnitux.desktop', 'rechenblatt.desktop', 'verkehrsinstruktion.desktop']
+excluded-apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'mathbox.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'mathe_primar_3.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'multidingsda.desktop', 'omnitux.desktop', 'rechenblatt.desktop', 'verkehrsinstruktion.desktop']
 name='Education.directory'
