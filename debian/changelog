@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (4) lernstick-8; urgency=medium
+
+  * [b94363] added firefox profile with imported ZScaler certificates
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 11 Aug 2015 16:27:32 +0200
+
 lernstick-usertemplate-winterthur (3) lernstick-8; urgency=medium
 
   * [b5493c] added envol to apps folders
