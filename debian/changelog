@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (8) lernstick-8; urgency=medium
+
+  * [39d8ab] show desktop icons in GNOME
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 13 Aug 2015 16:09:41 +0200
+
 lernstick-usertemplate-winterthur (7) lernstick-8; urgency=medium
 
   * [0cc803] added ZScaler certificates for Chromium
