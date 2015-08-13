@@ -1,9 +1,15 @@
 [org/gnome/desktop/app-folders]
-folder-children=['Utilities', 'Game', 'AudioVideo', 'Settings', 'Development', 'Lernstick', 'Education', 'Graphics', 'Office', 'Network', 'System', 'Compatibility', 'Lehrervorbereitung', 'Programme_UST', 'Programme_MST']
+folder-children=['Utilities', 'Game', 'AudioVideo', 'Development', 'Office', 'Network', 'System', 'Lehrervorbereitung', 'Programme_UST', 'Programme_MST']
 
 [org/gnome/desktop/app-folders/folders/Lehrervorbereitung]
 apps=['gcompris-edit.desktop', 'lehreroffice.desktop', 'rechenblatt.desktop']
 name='Lehrervorbereitung'
+
+[org/gnome/desktop/app-folders/folders/Game]
+translate=true
+categories=['Game']
+excluded-apps=['gcompris.desktop']
+name='Game.directory'
 
 [org/gnome/desktop/app-folders/folders/Sundry]
 translate=true
@@ -11,32 +17,27 @@ categories=['X-GNOME-Sundry']
 apps=['alacarte.desktop', 'authconfig.desktop', 'ca.desrt.dconf-editor.desktop', 'fedora-release-notes.desktop', 'firewall-config.desktop', 'flash-player-properties.desktop', 'gconf-editor.desktop', 'gnome-abrt.desktop', 'gnome-power-statistics.desktop', 'ibus-setup-anthy.desktop', 'ibus-setup.desktop', 'ibus-setup-hangul.desktop', 'ibus-setup-libbopomofo.desktop', 'ibus-setup-libpinyin.desktop', 'ibus-setup-m17n.desktop', 'ibus-setup-typing-booster.desktop', 'im-chooser.desktop', 'itweb-settings.desktop', 'jhbuild.desktop', 'javaws.desktop', 'java-1.7.0-openjdk-jconsole.desktop', 'java-1.7.0-openjdk-policytool.desktop', 'log4j-chainsaw.desktop', 'log4j-logfactor5.desktop', 'nm-connection-editor.desktop', 'orca.desktop', 'setroubleshoot.desktop', 'system-config-date.desktop', 'system-config-firewall.desktop', 'system-config-keyboard.desktop', 'system-config-language.desktop', 'system-config-printer.desktop', 'system-config-users.desktop', 'vino-preferences.desktop']
 name='X-GNOME-Sundry.directory'
 
-[org/gnome/desktop/app-folders/folders/Settings]
-translate=true
-categories=['Settings']
-excluded-apps=['gcompris-edit.desktop']
-name='Settings.directory'
-
 [org/gnome/desktop/app-folders/folders/Programme_MST]
 apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'verkehrsinstruktion.desktop']
 name='MST-Programme'
 
 [org/gnome/desktop/app-folders/folders/Programme_UST]
-apps=['budenberg.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'mathe_primar_3.desktop', 'multidingsda.desktop', 'verkehrsinstruktion.desktop']
+apps=['budenberg.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'mathe_primar_3.desktop', 'multidingsda.desktop', 'verkehrsinstruktion.desktop']
 name='UST-Programme'
 
 [org/gnome/desktop/app-folders/folders/Utilities]
 translate=true
 categories=['X-GNOME-Utilities', 'Utility']
+excluded-apps=['eog.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'gnome-disks.desktop', 'gnome-nettool.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'org.gnome.baobab.desktop', 'org.gnome.FileRoller.desktop']
 apps=['brasero.desktop', 'org.gnome.baobab.desktop', 'deja-dup-preferences.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'gnome-dictionary.desktop', 'gnome-disks.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'gnome-system-log.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'gucharmap.desktop', 'seahorse.desktop', 'vinagre.desktop', 'yelp.desktop']
-excluded-apps=['eog.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'org.gnome.FileRoller.desktop']
 name='X-GNOME-Utilities.directory'
 
-[org/gnome/desktop/app-folders/folders/Graphics]
-translate=true
-categories=['Graphics']
-excluded-apps=['calibrate_lens_gui.desktop', 'dia.desktop', 'eog.desktop', 'evince.desktop', 'hugin.desktop', 'pinta.desktop', 'shutter.desktop', 'tuxpaint.desktop', 'xsane.desktop']
-name='Graphics.directory'
+[org/gnome/desktop/app-folders/folders/System]
+translate=false
+categories=['Emulator', 'PackageManager', 'Settings', 'System', 'X-lernstick']
+apps=['gnome-disks.desktop']
+excluded-apps=['gcompris-edit.desktop']
+name='Verwaltung'
 
 [org/gnome/desktop/app-folders/folders/Office]
 translate=true
@@ -46,9 +47,9 @@ excluded-apps=['lehreroffice.desktop']
 name='Office.directory'
 
 [org/gnome/desktop/app-folders/folders/Development]
-translate=true
+translate=false
 categories=['Development', 'X-Kara']
-name='Development.directory'
+name='Programmieren'
 
 [org/gnome/desktop/app-folders/folders/AudioVideo]
 translate=true
@@ -57,8 +58,7 @@ apps=['calibrate_lens_gui.desktop', 'eog.desktop', 'hugin.desktop', 'pinta.deskt
 excluded-apps=['brasero.desktop']
 name='AudioVideo.directory'
 
-[org/gnome/desktop/app-folders/folders/Education]
+[org/gnome/desktop/app-folders/folders/Network]
 translate=true
-categories=['Education', 'X-lernstick-Astronomy', 'X-lernstick-History', 'Music', 'Geography', 'Typewriting']
-excluded-apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'mathbox.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'mathe_primar_3.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'multidingsda.desktop', 'omnitux.desktop', 'rechenblatt.desktop', 'verkehrsinstruktion.desktop']
-name='Education.directory'
+categories=['Network']
+name='Network.directory'
