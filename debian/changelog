@@ -1,3 +1,13 @@
+lernstick-usertemplate-winterthur (6) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [bfb63c] added etc/xdg/user-dirs.defaults (do not show Desktop, it's empty anyway)
+  * [e7c73d] Revert "added etc/xdg/user-dirs.defaults (do not show Desktop, it's empty anyway)"
+  * [d1e9aa] removed gbrainy from and added openshot and audacity to favorite GNOME apps
+  * [2bdfc1] updated GNOME app folders
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 13 Aug 2015 14:18:22 +0200
+
 lernstick-usertemplate-winterthur (5) lernstick-8; urgency=medium
 
   * [33263e] added LibreOffice to favorite GNOME apps
