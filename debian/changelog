@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (11) lernstick-8; urgency=medium
+
+  * [4bbed2] updated mozilla profile (added citrix settings)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 14 Aug 2015 16:57:02 +0200
+
 lernstick-usertemplate-winterthur (10) lernstick-8; urgency=medium
 
   * [bcec67] updated favorite GNOME apps
