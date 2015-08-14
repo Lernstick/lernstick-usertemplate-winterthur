@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (12) lernstick-8; urgency=medium
+
+  * [dcdfab] removed excel and powerpoint from GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 14 Aug 2015 17:17:31 +0200
+
 lernstick-usertemplate-winterthur (11) lernstick-8; urgency=medium
 
   * [4bbed2] updated mozilla profile (added citrix settings)
