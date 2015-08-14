@@ -5,42 +5,6 @@ Version:0.17:$
 Arch:x86-gcc3:$
 
 [PLUGINS]
-gecko-mediaplayer-dvx.so:$
-/usr/lib/mozilla/plugins/gecko-mediaplayer-dvx.so:$
-:$
-1403085297000:0:0:0:$
-<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.9<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
-DivX Browser Plug-In:$
-2
-0:video/divx:DivX Media Format:divx:$
-1:video/vnd.divx:DivX Media Format:divx:$
-gecko-mediaplayer-qt.so:$
-/usr/lib/mozilla/plugins/gecko-mediaplayer-qt.so:$
-:$
-1403085297000:0:0:0:$
-<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.9<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
-QuickTime Plug-in 7.6.9:$
-6
-0:video/quicktime:Quicktime:mov:$
-1:video/x-quicktime:Quicktime:mov:$
-2:image/x-quicktime:Quicktime:mov:$
-3:video/quicktime:Quicktime:mp4:$
-4:video/quicktime:Quicktime - Session Description Protocol:sdp:$
-5:application/x-quicktimeplayer:Quicktime:mov:$
-gecko-mediaplayer-rm.so:$
-/usr/lib/mozilla/plugins/gecko-mediaplayer-rm.so:$
-:$
-1403085297000:0:0:0:$
-<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.9<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
-RealPlayer 9:$
-7
-0:audio/x-pn-realaudio:RealAudio:ram,rm:$
-1:application/vnd.rn-realmedia:RealMedia:rm:$
-2:application/vnd.rn-realaudio:RealAudio:ra,ram:$
-3:video/vnd.rn-realvideo:RealVideo:rv:$
-4:audio/x-realaudio:RealAudio:ra:$
-5:audio/x-pn-realaudio-plugin:RealAudio:rpm:$
-6:application/smil:SMIL:smil:$
 gecko-mediaplayer-wmp.so:$
 /usr/lib/mozilla/plugins/gecko-mediaplayer-wmp.so:$
 :$
@@ -121,6 +85,51 @@ mplayerplug-in is now gecko-mediaplayer 1.0.9:$
 43:audio/x-webm:WEBM audio File:webm:$
 44:video/webm:WEBM video File:webm:$
 45:video/x-webm:WEBM video File:webm:$
+gecko-mediaplayer-dvx.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-dvx.so:$
+:$
+1403085297000:0:0:0:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.9<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+DivX Browser Plug-In:$
+2
+0:video/divx:DivX Media Format:divx:$
+1:video/vnd.divx:DivX Media Format:divx:$
+gecko-mediaplayer-qt.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-qt.so:$
+:$
+1403085297000:0:0:0:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.9<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+QuickTime Plug-in 7.6.9:$
+6
+0:video/quicktime:Quicktime:mov:$
+1:video/x-quicktime:Quicktime:mov:$
+2:image/x-quicktime:Quicktime:mov:$
+3:video/quicktime:Quicktime:mp4:$
+4:video/quicktime:Quicktime - Session Description Protocol:sdp:$
+5:application/x-quicktimeplayer:Quicktime:mov:$
+gecko-mediaplayer-rm.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-rm.so:$
+:$
+1403085297000:0:0:0:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.9<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+RealPlayer 9:$
+7
+0:audio/x-pn-realaudio:RealAudio:ram,rm:$
+1:application/vnd.rn-realmedia:RealMedia:rm:$
+2:application/vnd.rn-realaudio:RealAudio:ra,ram:$
+3:video/vnd.rn-realvideo:RealVideo:rv:$
+4:audio/x-realaudio:RealAudio:ra:$
+5:audio/x-pn-realaudio-plugin:RealAudio:rpm:$
+6:application/smil:SMIL:smil:$
+npica.so:$
+/opt/Citrix/ICAClient/npica.so:$
+:$
+1410282373000:0:0:0:$
+Citrix HDX Plugin (Linux) Version 13.1.0.285639 (/opt/Citrix/ICAClient/wfica):$
+Citrix Receiver for Linux:$
+2
+0:application/x-ica:Citrix ICA connection parameters:ica,ICA:$
+1:application/vnd.citrix.receiver.configure:Citrix Service configuration:cr:$
 libgnome-shell-browser-plugin.so:$
 /usr/lib/mozilla/plugins/libgnome-shell-browser-plugin.so:$
 :$
@@ -181,5 +190,17 @@ Shockwave Flash:$
 2
 0:application/x-shockwave-flash:Shockwave Flash:swf:$
 1:application/futuresplash:FutureSplash Player:spl:$
+nppdf.so:$
+/usr/lib/mozilla/plugins/nppdf.so:$
+:$
+1439483856000:0:0:0:$
+The Adobe Reader plugin is used to enable viewing of PDF and FDF files from within the browser. :$
+Adobe Reader 9.5:$
+5
+0:application/pdf:Portable Document Format:pdf:$
+1:application/vnd.fdf:Acrobat Forms Data Format:fdf:$
+2:application/vnd.adobe.xfdf:XML Version of Acrobat Forms Data Format:xfdf:$
+3:application/vnd.adobe.xdp+xml:Acrobat XML Data Package:xdp:$
+4:application/vnd.adobe.xfd+xml:Adobe FormFlow99 Data File:xfd:$
 
 [INVALID]
