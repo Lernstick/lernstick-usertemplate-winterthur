@@ -1,0 +1,12 @@
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-software']
+
+[org/gnome/desktop/notifications/application/gpk-application]
+enable=false
+
+[org/gnome/desktop/notifications/application/gpk-update-viewer]
+enable=false
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+enable=false
