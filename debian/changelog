@@ -1,3 +1,10 @@
+lernstick-usertemplate-winterthur (17) lernstick-8; urgency=medium
+
+  * [29c66a] use MS formats in LibreOffice per default
+  * [670833] changed screenshot keys to windows standard
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 18 Aug 2015 14:50:04 +0200
+
 lernstick-usertemplate-winterthur (16) lernstick-8; urgency=medium
 
   * [fca078] disable notifications about software upgrades in GNOME
