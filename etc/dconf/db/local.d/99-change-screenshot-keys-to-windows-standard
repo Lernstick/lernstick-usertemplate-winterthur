@@ -1,0 +1,8 @@
+[org/gnome/settings-daemon/plugins/media-keys]
+screenshot-clip='Print'
+area-screenshot-clip='<Shift>Print'
+screenshot='<Primary>Print'
+window-screenshot-clip='<Alt>Print'
+window-screenshot='<Primary><Alt>Print'
+area-screenshot='<Primary><Shift>Print'
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
