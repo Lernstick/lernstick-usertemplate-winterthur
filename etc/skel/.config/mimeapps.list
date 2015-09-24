@@ -1,0 +1,5 @@
+[Added Associations]
+x-content/video-dvd=smplayer.desktop;
+
+[Default Applications]
+x-content/video-dvd=smplayer.desktop
