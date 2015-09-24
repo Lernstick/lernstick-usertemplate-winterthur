@@ -1,3 +1,10 @@
+lernstick-usertemplate-winterthur (18) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [1a42b8] make smplayer default app for DVDs
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 24 Sep 2015 19:00:53 +0200
+
 lernstick-usertemplate-winterthur (17) lernstick-8; urgency=medium
 
   * [29c66a] use MS formats in LibreOffice per default
