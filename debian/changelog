@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (20) lernstick-8-winterthur; urgency=medium
+
+  * [7e7058] changed default video application from smplayer to totem
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 14 Jan 2016 08:50:32 +0100
+
 lernstick-usertemplate-winterthur (19) lernstick-8-winterthur; urgency=medium
 
   * [d21098] made chromium the default web browser
