@@ -1,5 +1,14 @@
 [Added Associations]
 x-content/video-dvd=smplayer.desktop;
+text/html=chromium.desktop;
+text/xml=chromium.desktop;
+application/xhtml_xml=chromium.desktop;
+x-scheme-handler/https=chromium.desktop;
 
 [Default Applications]
 x-content/video-dvd=smplayer.desktop
+x-scheme-handler/http=chromium.desktop
+text/html=chromium.desktop
+text/xml=chromium.desktop
+application/xhtml_xml=chromium.desktop
+x-scheme-handler/https=chromium.desktop

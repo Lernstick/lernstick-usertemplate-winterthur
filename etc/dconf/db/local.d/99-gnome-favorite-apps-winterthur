@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['iceweasel.desktop', 'libreoffice-startcenter.desktop', 'pinta.desktop', 'openshot.desktop', 'audacity.desktop', 'yelp.desktop']
+favorite-apps=['chromium.desktop', 'libreoffice-startcenter.desktop', 'pinta.desktop', 'openshot.desktop', 'audacity.desktop', 'yelp.desktop']
