@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (19) lernstick-8-winterthur; urgency=medium
+
+  * [d21098] made chromium the default web browser
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 14 Jan 2016 08:40:17 +0100
+
 lernstick-usertemplate-winterthur (18) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
