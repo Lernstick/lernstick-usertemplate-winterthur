@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (21) lernstick-8-winterthur; urgency=medium
+
+  * [62bf52] start Audio CDs per default with Rhythmbox and Video DVDs with Totem
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 20 Jan 2016 11:19:48 +0100
+
 lernstick-usertemplate-winterthur (20) lernstick-8-winterthur; urgency=medium
 
   * [7e7058] changed default video application from smplayer to totem
