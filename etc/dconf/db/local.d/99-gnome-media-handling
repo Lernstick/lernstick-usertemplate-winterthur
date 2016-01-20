@@ -1,0 +1,2 @@
+[org/gnome/desktop/media-handling]
+autorun-x-content-start-app=['x-content/unix-software', 'x-content/audio-cdda', 'x-content/video-dvd']
