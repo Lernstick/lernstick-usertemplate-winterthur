@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (22) lernstick-8-winterthur; urgency=medium
+
+  * [3ca6c3] added ms office files to mimeapps list
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 21 Jan 2016 13:48:06 +0100
+
 lernstick-usertemplate-winterthur (21) lernstick-8-winterthur; urgency=medium
 
   * [62bf52] start Audio CDs per default with Rhythmbox and Video DVDs with Totem
