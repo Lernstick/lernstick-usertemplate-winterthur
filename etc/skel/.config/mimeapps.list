@@ -4,6 +4,9 @@ text/html=chromium.desktop;
 text/xml=chromium.desktop;
 application/xhtml_xml=chromium.desktop;
 x-scheme-handler/https=chromium.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=ms-word-2010.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=ms-powerpoint-2010.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=ms-excel-2010.desktop;
 
 [Default Applications]
 x-content/video-dvd=org.gnome.Totem.desktop
@@ -13,3 +16,6 @@ text/xml=chromium.desktop
 application/xhtml_xml=chromium.desktop
 x-scheme-handler/https=chromium.desktop
 x-content/audio-cdda=rhythmbox-device.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=ms-word-2010.desktop
+application/vnd.openxmlformats-officedocument.presentationml.presentation=ms-powerpoint-2010.desktop
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=ms-excel-2010.desktop
