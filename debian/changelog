@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (23) lernstick-8-winterthur; urgency=medium
+
+  * [3541b8] replaced LibreOffice with MS Word in GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 21 Jan 2016 15:00:06 +0100
+
 lernstick-usertemplate-winterthur (22) lernstick-8-winterthur; urgency=medium
 
   * [3ca6c3] added ms office files to mimeapps list
