@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (24) lernstick-8-winterthur; urgency=medium
+
+  * [d724a7] removed LibreOffice registry modifications (no longer needed, MS Office is default)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 25 Jan 2016 09:25:23 +0100
+
 lernstick-usertemplate-winterthur (23) lernstick-8-winterthur; urgency=medium
 
   * [3541b8] replaced LibreOffice with MS Word in GNOME favorites
