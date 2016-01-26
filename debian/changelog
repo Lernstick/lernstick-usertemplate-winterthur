@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (25) lernstick-8-winterthur; urgency=medium
+
+  * [b11e0a] added Lernwerkstatt 8 to GNOME apps folders
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 26 Jan 2016 19:05:00 +0100
+
 lernstick-usertemplate-winterthur (24) lernstick-8-winterthur; urgency=medium
 
   * [d724a7] removed LibreOffice registry modifications (no longer needed, MS Office is default)
