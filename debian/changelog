@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (27) lernstick-8-winterthur; urgency=medium
+
+  * [132362] updated gnome app folders (added tobi cd, renamed "ust" and "mst" to "zyklus 1" and "zyklus 2")
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 20 May 2016 15:23:08 +0200
+
 lernstick-usertemplate-winterthur (26) lernstick-8-winterthur; urgency=medium
 
   * [46979c] added dconf option so that app usage is not remembered
