@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (26) lernstick-8-winterthur; urgency=medium
+
+  * [46979c] added dconf option so that app usage is not remembered
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 20 May 2016 13:21:45 +0200
+
 lernstick-usertemplate-winterthur (25) lernstick-8-winterthur; urgency=medium
 
   * [b11e0a] added Lernwerkstatt 8 to GNOME apps folders
