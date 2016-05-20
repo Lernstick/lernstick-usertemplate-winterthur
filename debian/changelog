@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (28) lernstick-8-winterthur; urgency=medium
+
+  * [65d8a0] disabled gpaste image support (seems to be broken)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 20 May 2016 16:26:28 +0200
+
 lernstick-usertemplate-winterthur (27) lernstick-8-winterthur; urgency=medium
 
   * [132362] updated gnome app folders (added tobi cd, renamed "ust" and "mst" to "zyklus 1" and "zyklus 2")
