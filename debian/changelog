@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (30) lernstick-8-winterthur; urgency=medium
+
+  * [2e7d59] added blender to GNOME app folder "AudioVideo"
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 21 May 2016 20:15:50 +0200
+
 lernstick-usertemplate-winterthur (29) lernstick-8-winterthur; urgency=medium
 
   * [70657d] added "Young World 2" to Zyklus 2
