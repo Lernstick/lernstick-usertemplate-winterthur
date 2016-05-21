@@ -54,7 +54,7 @@ name='Programmieren'
 [org/gnome/desktop/app-folders/folders/AudioVideo]
 translate=true
 categories=['AudioVideo']
-apps=['calibrate_lens_gui.desktop', 'eog.desktop', 'hugin.desktop', 'pinta.desktop', 'shutter.desktop', 'tuxpaint.desktop']
+apps=['blender.desktop', 'calibrate_lens_gui.desktop', 'eog.desktop', 'hugin.desktop', 'pinta.desktop', 'shutter.desktop', 'tuxpaint.desktop']
 excluded-apps=['brasero.desktop']
 name='AudioVideo.directory'
 
