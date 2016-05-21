@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (29) lernstick-8-winterthur; urgency=medium
+
+  * [70657d] added "Young World 2" to Zyklus 2
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 21 May 2016 19:50:50 +0200
+
 lernstick-usertemplate-winterthur (28) lernstick-8-winterthur; urgency=medium
 
   * [65d8a0] disabled gpaste image support (seems to be broken)
