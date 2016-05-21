@@ -18,7 +18,7 @@ apps=['alacarte.desktop', 'authconfig.desktop', 'ca.desrt.dconf-editor.desktop',
 name='X-GNOME-Sundry.directory'
 
 [org/gnome/desktop/app-folders/folders/Programme_MST]
-apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'verkehrsinstruktion.desktop']
+apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'young_world_2.desktop', 'verkehrsinstruktion.desktop']
 name='Zyklus 2'
 
 [org/gnome/desktop/app-folders/folders/Programme_UST]
