@@ -8,6 +8,7 @@ application/vnd.openxmlformats-officedocument.wordprocessingml.document=ms-word-
 application/vnd.openxmlformats-officedocument.presentationml.presentation=ms-powerpoint-2010.desktop;
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=ms-excel-2010.desktop;
 application/x-ms-dos-executable=wine.desktop;
+audio/mpeg=rhythmbox.desktop;
 
 [Default Applications]
 x-content/video-dvd=org.gnome.Totem.desktop
@@ -21,3 +22,4 @@ application/vnd.openxmlformats-officedocument.wordprocessingml.document=ms-word-
 application/vnd.openxmlformats-officedocument.presentationml.presentation=ms-powerpoint-2010.desktop
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=ms-excel-2010.desktop
 application/x-ms-dos-executable=wine.desktop
+audio/mpeg=rhythmbox.desktop
