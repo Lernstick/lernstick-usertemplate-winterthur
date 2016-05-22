@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (32) lernstick-8-winterthur; urgency=medium
+
+  * [be8e03] made rhythmbox the default application for mp3 files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 22 May 2016 12:27:51 +0200
+
 lernstick-usertemplate-winterthur (31) lernstick-8-winterthur; urgency=medium
 
   * [0a5e6c] made wine the default application for exe files
