@@ -18,11 +18,11 @@ apps=['alacarte.desktop', 'authconfig.desktop', 'ca.desrt.dconf-editor.desktop',
 name='X-GNOME-Sundry.directory'
 
 [org/gnome/desktop/app-folders/folders/Programme_MST]
-apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'young_world_2.desktop', 'verkehrsinstruktion.desktop']
+apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_3.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathbox.desktop', 'young_world_2.desktop', 'verkehrsinstruktion.desktop']
 name='Zyklus 2'
 
 [org/gnome/desktop/app-folders/folders/Programme_UST]
-apps=['budenberg.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'mathe_primar_3.desktop', 'multidingsda.desktop', 'tobi-erstlesebuch-cd.desktop', 'verkehrsinstruktion.desktop']
+apps=['budenberg.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'multidingsda.desktop', 'tobi-erstlesebuch-cd.desktop', 'verkehrsinstruktion.desktop']
 name='Zyklus 1'
 
 [org/gnome/desktop/app-folders/folders/Utilities]
