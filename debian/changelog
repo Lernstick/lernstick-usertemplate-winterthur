@@ -1,3 +1,11 @@
+lernstick-usertemplate-winterthur (33) lernstick-8-winterthur; urgency=medium
+
+  * [67e137] moved mathe_primar_3 to zyklus 2
+  * [28f56e] use eog for jpg files, changed default webbrowser from chromium back to firefox
+  * [4b0710] replaced chromium with firefox in GNOME favorite apps
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 25 Jun 2016 13:35:15 +0200
+
 lernstick-usertemplate-winterthur (32) lernstick-8-winterthur; urgency=medium
 
   * [be8e03] made rhythmbox the default application for mp3 files
