@@ -1,3 +1,10 @@
+lernstick-usertemplate-winterthur (34) lernstick-8-winterthur; urgency=medium
+
+  * [7824a0] updated mozilla profile
+  * [fafae6] added Mathe Primar 6 to Zyklus 2
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 07 Jul 2016 10:00:12 +0200
+
 lernstick-usertemplate-winterthur (33) lernstick-8-winterthur; urgency=medium
 
   * [67e137] moved mathe_primar_3 to zyklus 2
