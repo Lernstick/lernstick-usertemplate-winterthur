@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (38) lernstick-8-winterthur; urgency=medium
+
+  * [4cabbf] use MS Office for older document formats (doc,ppt,xls)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 07 Sep 2016 17:37:34 +0200
+
 lernstick-usertemplate-winterthur (37) lernstick-8-winterthur; urgency=medium
 
   * [77edb0] fixed debian rules file
