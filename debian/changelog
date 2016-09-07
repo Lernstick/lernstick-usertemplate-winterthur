@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (37) lernstick-8-winterthur; urgency=medium
+
+  * [77edb0] fixed debian rules file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 07 Sep 2016 17:27:16 +0200
+
 lernstick-usertemplate-winterthur (36) lernstick-8-winterthur; urgency=medium
 
   * [265318] added custom backgrounds for desktop and lockscreen
