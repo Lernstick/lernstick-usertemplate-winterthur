@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=GNOME;GTK;Settings;
+Exec=gnome-control-center display
+Icon=preferences-desktop-display
+Name[de]=Monitor-Einstellungen
+Name=Display Settings
+OnlyShowIn=GNOME;Unity;
+Type=Application
