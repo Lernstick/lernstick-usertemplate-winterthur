@@ -2,7 +2,7 @@
 folder-children=['Utilities', 'Game', 'AudioVideo', 'Development', 'Office', 'Network', 'System', 'Lehrervorbereitung', 'Programme_UST', 'Programme_MST']
 
 [org/gnome/desktop/app-folders/folders/Lehrervorbereitung]
-apps=['gcompris-edit.desktop', 'lehreroffice.desktop', 'rechenblatt.desktop']
+apps=['gcompris-edit.desktop', 'lehreroffice.desktop', 'rechenblatt.desktop', 'young_world_1_lk.desktop', 'young_world_1_tb.desktop', 'young_world_2_lk.desktop', 'young_world_2_tb.desktop', 'young_world_3_lk.desktop', 'young_world_3_tb.desktop', 'young_world_4_lk.desktop', 'young_world_4_tb.desktop']
 name='Lehrervorbereitung'
 
 [org/gnome/desktop/app-folders/folders/Game]
