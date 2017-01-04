@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (41) lernstick-8-winterthur; urgency=medium
+
+  * [80aac3] added Young World desktop files for teacher preparation
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 04 Jan 2017 16:14:42 +0100
+
 lernstick-usertemplate-winterthur (40) lernstick-8-winterthur; urgency=medium
 
   * [0ca4c0] added display config to GNOME favorites
