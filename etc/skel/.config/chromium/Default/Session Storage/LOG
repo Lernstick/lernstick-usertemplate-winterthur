@@ -1,0 +1,9 @@
+2017/02/24-16:56:43.466 15485 Reusing MANIFEST /home/user/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/02/24-16:56:43.466 15485 Recovering log #3
+2017/02/24-16:56:43.466 15485 Reusing old log /home/user/.config/chromium/Default/Session Storage/000003.log 
+2017/02/24-16:57:50.258 15704 Level-0 table #5: started
+2017/02/24-16:57:50.259 15704 Level-0 table #5: 79261 bytes OK
+2017/02/24-16:57:50.260 15704 Delete type=0 #3
+2017/02/24-16:59:11.859 15704 Level-0 table #7: started
+2017/02/24-16:59:11.860 15704 Level-0 table #7: 50902 bytes OK
+2017/02/24-16:59:11.861 15704 Delete type=0 #4

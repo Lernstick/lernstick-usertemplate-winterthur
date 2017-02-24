@@ -1,0 +1,48 @@
+{
+   "checksum": "35adadb54ffa4a0a9b465e3d3f65db95",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13132425017744348",
+            "id": "6",
+            "name": "Lernstick",
+            "type": "url",
+            "url": "http://www.schucom.ch/lernstick/"
+         }, {
+            "date_added": "13132425074741656",
+            "id": "7",
+            "name": "winschulen.ch",
+            "type": "url",
+            "url": "http://www.winschulen.ch/"
+         }, {
+            "date_added": "13132425108038526",
+            "id": "8",
+            "name": "Blinde Kuh",
+            "type": "url",
+            "url": "http://www.blindekuh.de/"
+         } ],
+         "date_added": "13132424975738768",
+         "date_modified": "13132425108038526",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13132424975738775",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13132424975738776",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
