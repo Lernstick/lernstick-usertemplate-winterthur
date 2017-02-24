@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (42) lernstick-8-winterthur; urgency=medium
+
+  * [580fe7] added default config for firefox and chromium
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 24 Feb 2017 17:11:06 +0100
+
 lernstick-usertemplate-winterthur (41) lernstick-8-winterthur; urgency=medium
 
   * [80aac3] added Young World desktop files for teacher preparation
