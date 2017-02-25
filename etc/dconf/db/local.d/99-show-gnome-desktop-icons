@@ -3,4 +3,5 @@ show-desktop-icons=true
 
 [org/gnome/nautilus/desktop]
 home-icon-visible=false
-trash-icon-visible=false
+trash-icon-visible=true
+trash-icon-name='Papierkorb'
