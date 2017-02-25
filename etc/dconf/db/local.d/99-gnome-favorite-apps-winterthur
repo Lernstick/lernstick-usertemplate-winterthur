@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['firefox.desktop', 'ms-word-2010.desktop', 'pinta.desktop', 'openshot.desktop', 'audacity.desktop', 'gnome-control-center-display.desktop', 'restart-network.desktop', 'yelp.desktop']
+favorite-apps=['org.gnome.Nautilus.desktop', 'firefox.desktop', 'ms-word-2010.desktop', 'gnome-control-center-display.desktop', 'restart-network.desktop']
