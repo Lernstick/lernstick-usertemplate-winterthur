@@ -1,3 +1,11 @@
+lernstick-usertemplate-winterthur (43) lernstick-8-winterthur; urgency=medium
+
+  * [b6e177] updated favorite apps
+  * [75b81f] show trash icon on desktop
+  * [c2d03f] added default passwordless keyring
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 25 Feb 2017 09:23:02 +0100
+
 lernstick-usertemplate-winterthur (42) lernstick-8-winterthur; urgency=medium
 
   * [580fe7] added default config for firefox and chromium
