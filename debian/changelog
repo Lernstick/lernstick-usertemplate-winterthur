@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (44) lernstick-8-winterthur; urgency=medium
+
+  * [f64d01] added default config (German) for Master PDF Editor
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 26 Feb 2017 10:46:54 +0100
+
 lernstick-usertemplate-winterthur (43) lernstick-8-winterthur; urgency=medium
 
   * [b6e177] updated favorite apps
