@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (45) lernstick-8-winterthur; urgency=medium
+
+  * [bcd731] updated gnome apps folders
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 27 Feb 2017 10:10:30 +0100
+
 lernstick-usertemplate-winterthur (44) lernstick-8-winterthur; urgency=medium
 
   * [f64d01] added default config (German) for Master PDF Editor
