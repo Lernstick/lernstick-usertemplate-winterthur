@@ -2,7 +2,7 @@
 folder-children=['Utilities', 'Game', 'AudioVideo', 'Development', 'Office', 'Network', 'System', 'Lehrervorbereitung', 'Programme_UST', 'Programme_MST']
 
 [org/gnome/desktop/app-folders/folders/Lehrervorbereitung]
-apps=['gcompris-edit.desktop', 'lehreroffice.desktop', 'rechenblatt.desktop', 'young_world_1_lk.desktop', 'young_world_1_tb.desktop', 'young_world_2_lk.desktop', 'young_world_2_tb.desktop', 'young_world_3_lk.desktop', 'young_world_3_tb.desktop', 'young_world_4_lk.desktop', 'young_world_4_tb.desktop']
+apps=['gcompris-edit.desktop', 'lehreroffice.desktop', 'young_world_1_lk.desktop', 'young_world_1_tb.desktop', 'young_world_2_lk.desktop', 'young_world_2_tb.desktop', 'young_world_3_lk.desktop', 'young_world_3_tb.desktop', 'young_world_4_lk.desktop', 'young_world_4_tb.desktop']
 name='Lehrervorbereitung'
 
 [org/gnome/desktop/app-folders/folders/Game]
@@ -18,11 +18,11 @@ apps=['alacarte.desktop', 'authconfig.desktop', 'ca.desrt.dconf-editor.desktop',
 name='X-GNOME-Sundry.directory'
 
 [org/gnome/desktop/app-folders/folders/Programme_MST]
-apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_3.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathe_primar_6.desktop', 'mathbox.desktop', 'tipp10.desktop', 'tuxmath.desktop', 'young_world_2.desktop', 'velopruefung.desktop']
+apps=['budenberg.desktop', 'envol-5-bandes-dessinees.desktop', 'envol-5-on-sentraine.desktop', 'envol-6-bandes-dessinees.desktop', 'envol-6-on-sentraine.desktop', 'geokiste.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_3.desktop', 'mathe_primar_4.desktop', 'mathe_primar_5.desktop', 'mathe_primar_6.desktop', 'mathbox.desktop', 'rechenblatt.desktop', 'tipp10.desktop', 'tuxmath.desktop', 'young_world_2.desktop', 'velopruefung.desktop']
 name='Zyklus 2'
 
 [org/gnome/desktop/app-folders/folders/Programme_UST]
-apps=['budenberg.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'multidingsda.desktop', 'tobi-erstlesebuch-cd.desktop', 'tuxmath.desktop', 'velopruefung.desktop']
+apps=['budenberg.desktop', 'gcompris.desktop', 'geokiste.desktop', 'gio-key-board.desktop', 'lesendurchschreiben.desktop', 'leseschlau.desktop', 'lesewerkstatt.desktop', 'lernwerkstatt-8.desktop', 'mathe_primar_1.desktop', 'mathe_primar_2.desktop', 'multidingsda.desktop', 'rechenblatt.desktop', 'tobi-erstlesebuch-cd.desktop', 'tuxmath.desktop', 'velopruefung.desktop']
 name='Zyklus 1'
 
 [org/gnome/desktop/app-folders/folders/Utilities]
