@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (47) lernstick-8-winterthur; urgency=medium
+
+  * [a10410] moved "rechenblatt" to different app folders
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 11 Mar 2017 14:04:34 +0100
+
 lernstick-usertemplate-winterthur (46) lernstick-8-winterthur; urgency=medium
 
   * [4537a2] switched from firefox to firefox-esr
