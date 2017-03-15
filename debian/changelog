@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (48) lernstick-8-winterthur; urgency=medium
+
+  * [dde80e] made masterpdfeditor the default application for pdf files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 15 Mar 2017 15:35:47 +0100
+
 lernstick-usertemplate-winterthur (47) lernstick-8-winterthur; urgency=medium
 
   * [a10410] moved "rechenblatt" to different app folders
