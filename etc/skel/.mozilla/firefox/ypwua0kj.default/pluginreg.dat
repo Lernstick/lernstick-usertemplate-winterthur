@@ -1,7 +1,7 @@
 Generated File. Do not edit.
 
 [HEADER]
-Version:0.17:$
+Version:0.18f:$
 Arch:x86-gcc3:$
 
 [PLUGINS]
@@ -131,10 +131,19 @@ IcedTea-Web Plugin (using IcedTea-Web 1.6.2 (1.6.2-3~bpo8+1)):$
 35:application/x-java-bean;version=1.8:IcedTea:class,jar:$
 36:application/x-java-bean;jpi-version=1.8.0_50:IcedTea:class,jar:$
 37:application/x-java-vm-npruntime:IcedTea::$
+libflashplayer.so:$
+/usr/lib/mozilla/plugins/libflashplayer.so:$
+25.0.0.127:$
+1488321472000:0:0:0:$
+Shockwave Flash 25.0 r0:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
 nppdf.so:$
 /usr/lib/mozilla/plugins/nppdf.so:$
 :$
-1484125530000:0:0:0:$
+1489680499000:0:0:0:$
 The Adobe Reader plugin is used to enable viewing of PDF and FDF files from within the browser. :$
 Adobe Reader 9.5:$
 5
@@ -143,14 +152,5 @@ Adobe Reader 9.5:$
 2:application/vnd.adobe.xfdf:XML Version of Acrobat Forms Data Format:xfdf:$
 3:application/vnd.adobe.xdp+xml:Acrobat XML Data Package:xdp:$
 4:application/vnd.adobe.xfd+xml:Adobe FormFlow99 Data File:xfd:$
-libflashplayer.so:$
-/usr/lib/mozilla/plugins/libflashplayer.so:$
-24.0.0.221:$
-1485806665000:0:0:0:$
-Shockwave Flash 24.0 r0:$
-Shockwave Flash:$
-2
-0:application/x-shockwave-flash:Shockwave Flash:swf:$
-1:application/futuresplash:FutureSplash Player:spl:$
 
 [INVALID]
