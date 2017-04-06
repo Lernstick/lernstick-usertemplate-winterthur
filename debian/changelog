@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (49) lernstick-8-winterthur; urgency=medium
+
+  * [78397a] updated firefox profile (prefer German language on websites)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 06 Apr 2017 13:07:31 +0200
+
 lernstick-usertemplate-winterthur (48) lernstick-8-winterthur; urgency=medium
 
   * [dde80e] made masterpdfeditor the default application for pdf files
