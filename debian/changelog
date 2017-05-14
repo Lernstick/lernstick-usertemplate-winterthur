@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (50) lernstick-8-winterthur; urgency=medium
+
+  * [95f42b] disabled update checks in Master PDF Editor
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 14 May 2017 13:51:45 +0200
+
 lernstick-usertemplate-winterthur (49) lernstick-8-winterthur; urgency=medium
 
   * [78397a] updated firefox profile (prefer German language on websites)
