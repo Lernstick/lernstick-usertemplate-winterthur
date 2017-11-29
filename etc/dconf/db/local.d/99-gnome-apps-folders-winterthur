@@ -61,4 +61,5 @@ name='AudioVideo.directory'
 [org/gnome/desktop/app-folders/folders/Network]
 translate=true
 categories=['Network']
+apps=['icedove.desktop']
 name='Network.directory'
