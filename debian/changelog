@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (52) lernstick-8-winterthur; urgency=medium
+
+  * [aef382] added icedove->thunderbird migration assisstant to GNOME's app folder "Network"
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 30 Nov 2017 00:24:44 +0100
+
 lernstick-usertemplate-winterthur (51) lernstick-8-winterthur; urgency=medium
 
   * [8d1965] added gthumb to GNOMEs app folder AudioVideo
