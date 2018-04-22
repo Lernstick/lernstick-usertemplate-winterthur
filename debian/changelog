@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (53) lernstick-9-winterthur; urgency=medium
+
+  * [b43860] updated app folder info for Debian 9
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 22 Apr 2018 20:16:30 +0200
+
 lernstick-usertemplate-winterthur (52) lernstick-8-winterthur; urgency=medium
 
   * [aef382] added icedove->thunderbird migration assisstant to GNOME's app folder "Network"
