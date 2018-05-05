@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (54) lernstick-9-winterthur; urgency=medium
+
+  * [a544de] updated GNOME app folders for Debian 9
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 05 May 2018 11:17:55 +0200
+
 lernstick-usertemplate-winterthur (53) lernstick-9-winterthur; urgency=medium
 
   * [b43860] updated app folder info for Debian 9
