@@ -28,21 +28,21 @@ name='Zyklus 1'
 [org/gnome/desktop/app-folders/folders/Utilities]
 translate=true
 categories=['X-GNOME-Utilities', 'Utility']
-excluded-apps=['eog.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'gnome-disks.desktop', 'gnome-nettool.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'org.gnome.baobab.desktop', 'org.gnome.FileRoller.desktop']
-apps=['brasero.desktop', 'org.gnome.baobab.desktop', 'deja-dup-preferences.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'gnome-dictionary.desktop', 'gnome-disks.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'gnome-system-log.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'gucharmap.desktop', 'seahorse.desktop', 'vinagre.desktop', 'yelp.desktop']
+apps=['brasero.desktop', 'org.gnome.baobab.desktop', 'deja-dup-preferences.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'gnome-dictionary.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'gnome-system-log.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'gucharmap.desktop', 'seahorse.desktop', 'vinagre.desktop', 'yelp.desktop']
+excluded-apps=['eog.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'org.gnome.DiskUtility.desktop', 'gnome-nettool.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'org.gnome.baobab.desktop', 'org.gnome.FileRoller.desktop']
 name='X-GNOME-Utilities.directory'
 
 [org/gnome/desktop/app-folders/folders/System]
 translate=false
 categories=['Emulator', 'PackageManager', 'Settings', 'System', 'X-lernstick']
-apps=['gnome-disks.desktop']
+apps=['org.gnome.DiskUtility.desktop']
 excluded-apps=['gcompris-edit.desktop']
 name='Verwaltung'
 
 [org/gnome/desktop/app-folders/folders/Office]
 translate=true
 categories=['Office']
-apps=['dia.desktop', 'gnome-calculator.desktop', 'org.gnome.FileRoller.desktop', 'xsane.desktop']
+apps=['dia.desktop', 'gnome-calculator.desktop', 'org.gnome.FileRoller.desktop', 'xsane.desktop', 'simple-scan.desktop']
 excluded-apps=['lehreroffice.desktop']
 name='Office.directory'
 
