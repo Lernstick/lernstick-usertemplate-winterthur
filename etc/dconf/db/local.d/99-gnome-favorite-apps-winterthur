@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['org.gnome.Nautilus.desktop', 'firefox-esr.desktop', 'ms-word-2010.desktop', 'gnome-control-center-display.desktop', 'restart-network.desktop']
+favorite-apps=['org.gnome.Nautilus.desktop', 'firefox-esr.desktop', 'ms-word-2013.desktop', 'gnome-control-center-display.desktop', 'restart-network.desktop']
