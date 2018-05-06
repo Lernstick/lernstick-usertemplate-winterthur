@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (55) lernstick-9-winterthur; urgency=medium
+
+  * [943d69] upgraded to MS Office 2013
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 06 May 2018 22:03:37 +0200
+
 lernstick-usertemplate-winterthur (54) lernstick-9-winterthur; urgency=medium
 
   * [a544de] updated GNOME app folders for Debian 9
