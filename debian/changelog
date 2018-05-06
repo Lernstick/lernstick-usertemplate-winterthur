@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (56) lernstick-9-winterthur; urgency=medium
+
+  * [44fb7a] default to Office 2013
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 06 May 2018 23:46:52 +0200
+
 lernstick-usertemplate-winterthur (55) lernstick-9-winterthur; urgency=medium
 
   * [943d69] upgraded to MS Office 2013
