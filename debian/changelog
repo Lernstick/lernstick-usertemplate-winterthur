@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (57) lernstick-9-winterthur; urgency=medium
+
+  * [76e775] added some document templates
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 09 Jun 2018 21:18:04 +0200
+
 lernstick-usertemplate-winterthur (56) lernstick-9-winterthur; urgency=medium
 
   * [44fb7a] default to Office 2013
