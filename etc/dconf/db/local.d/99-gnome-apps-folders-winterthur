@@ -29,13 +29,13 @@ name='Zyklus 1'
 translate=true
 categories=['X-GNOME-Utilities', 'Utility']
 apps=['brasero.desktop', 'org.gnome.baobab.desktop', 'deja-dup-preferences.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'gnome-dictionary.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'gnome-system-log.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'gucharmap.desktop', 'seahorse.desktop', 'vinagre.desktop', 'yelp.desktop']
-excluded-apps=['eog.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'org.gnome.DiskUtility.desktop', 'gnome-nettool.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'org.gnome.baobab.desktop', 'org.gnome.FileRoller.desktop']
+excluded-apps=['eog.desktop', 'evince.desktop', 'gnome-calculator.desktop', 'org.gnome.DiskUtility.desktop', 'gnome-nettool.desktop', 'gnome-system-monitor.desktop', 'gnome-terminal.desktop', 'org.gnome.baobab.desktop', 'org.gnome.FileRoller.desktop', 'fsview.desktop']
 name='X-GNOME-Utilities.directory'
 
 [org/gnome/desktop/app-folders/folders/System]
 translate=false
 categories=['Emulator', 'PackageManager', 'Settings', 'System', 'X-lernstick']
-apps=['org.gnome.DiskUtility.desktop']
+apps=['org.gnome.DiskUtility.desktop', 'fsview.desktop']
 excluded-apps=['gcompris-edit.desktop']
 name='Verwaltung'
 
