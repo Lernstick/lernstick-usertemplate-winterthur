@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (60) lernstick-9-winterthur; urgency=medium
+
+  * [249ef0] set power-button-action to 'nothing'
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 19 Jun 2018 19:02:22 +0200
+
 lernstick-usertemplate-winterthur (59) lernstick-9-winterthur; urgency=medium
 
   * [4b3767] moved fsview in GNOME from app folder "utilities" to "system"
