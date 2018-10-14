@@ -1,3 +1,10 @@
+lernstick-usertemplate-winterthur (61) lernstick-9-winterthur; urgency=medium
+
+  * [60fbd9] moved dash to the right side of the screen
+             (prevents collisions with desktop icons)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 14 Oct 2018 13:40:28 +0200
+
 lernstick-usertemplate-winterthur (60) lernstick-9-winterthur; urgency=medium
 
   * [249ef0] set power-button-action to 'nothing'
