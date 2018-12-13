@@ -1,26 +1,14 @@
 [Added Associations]
 x-content/video-dvd=totem.desktop;org.gnome.Totem.desktop;
-application/vnd.openxmlformats-officedocument.wordprocessingml.document=ms-word-2013.desktop;
-application/vnd.openxmlformats-officedocument.presentationml.presentation=ms-powerpoint-2013.desktop;
-application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=ms-excel-2013.desktop;
 application/x-ms-dos-executable=wine.desktop;
 audio/mpeg=rhythmbox.desktop;
 image/jpeg=eog.desktop;
-application/msword=ms-word-2013.desktop;
-application/vnd.ms-powerpoint=ms-powerpoint-2013.desktop;
-application/vnd.ms-excel=ms-excel-2013.desktop;
 application/pdf=masterpdfeditor4.desktop;
 
 [Default Applications]
 x-content/video-dvd=org.gnome.Totem.desktop
 x-content/audio-cdda=rhythmbox-device.desktop
-application/vnd.openxmlformats-officedocument.wordprocessingml.document=ms-word-2013.desktop
-application/vnd.openxmlformats-officedocument.presentationml.presentation=ms-powerpoint-2013.desktop
-application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=ms-excel-2013.desktop
 application/x-ms-dos-executable=wine.desktop
 audio/mpeg=rhythmbox.desktop
 image/jpeg=eog.desktop
-application/msword=ms-word-2013.desktop
-application/vnd.ms-powerpoint=ms-powerpoint-2013.desktop
-application/vnd.ms-excel=ms-excel-2013.desktop
 application/pdf=masterpdfeditor4.desktop
