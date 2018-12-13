@@ -1,0 +1,3 @@
+[org/gnome/shell/extensions/dash-to-dock]
+custom-theme-shrink=true
+dash-max-icon-size=42
