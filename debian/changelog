@@ -1,3 +1,12 @@
+lernstick-usertemplate-winterthur (62) lernstick-9-winterthur; urgency=medium
+
+  * [9ffb1d] replaced MS Word with LibreOffice in GNOME favorites
+  * [f5e027] updated dash-to-dock settings
+  * [724689] removed MS Office 2013 from mimeapps list
+  * [cbb07e] added config for nautilus zoom level
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 13 Dec 2018 23:37:45 +0100
+
 lernstick-usertemplate-winterthur (61) lernstick-9-winterthur; urgency=medium
 
   * [60fbd9] moved dash to the right side of the screen
