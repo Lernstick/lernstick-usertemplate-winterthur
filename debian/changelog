@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (63) lernstick-9-winterthur; urgency=medium
+
+  * [2c24bc] updated Firefox profile (always activate Flash, 80% zoom for Lehrmittelverlag Zürich
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 14 Dec 2018 00:01:13 +0100
+
 lernstick-usertemplate-winterthur (62) lernstick-9-winterthur; urgency=medium
 
   * [9ffb1d] replaced MS Word with LibreOffice in GNOME favorites
