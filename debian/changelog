@@ -1,3 +1,9 @@
+lernstick-usertemplate-winterthur (65) lernstick-9-winterthur; urgency=medium
+
+  * [483bf2] switched from Master-PDF-Editor v4 to v5 as default app for PDFs
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 24 Jan 2019 14:25:24 +0100
+
 lernstick-usertemplate-winterthur (64) lernstick-9-winterthur; urgency=medium
 
   * [8c529a] added handler for Citrix Receiver in Firefox default profile
