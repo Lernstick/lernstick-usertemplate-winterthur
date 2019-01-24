@@ -3,7 +3,7 @@ x-content/video-dvd=totem.desktop;org.gnome.Totem.desktop;
 application/x-ms-dos-executable=wine.desktop;
 audio/mpeg=rhythmbox.desktop;
 image/jpeg=eog.desktop;
-application/pdf=masterpdfeditor4.desktop;
+application/pdf=masterpdfeditor5.desktop;
 
 [Default Applications]
 x-content/video-dvd=org.gnome.Totem.desktop
@@ -11,4 +11,4 @@ x-content/audio-cdda=rhythmbox-device.desktop
 application/x-ms-dos-executable=wine.desktop
 audio/mpeg=rhythmbox.desktop
 image/jpeg=eog.desktop
-application/pdf=masterpdfeditor4.desktop
+application/pdf=masterpdfeditor5.desktop
